@@ -1,1 +1,1 @@
-### Edit the CSS files to styling.
+### Edit the CSS files to change styling.
