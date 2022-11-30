@@ -1,5 +1,8 @@
-# RouterOS API
+## This is a python script and notebook to visualize data from mikrotik 60GHz AP
 
+
+## Dependency
+Router OS API: Author-- Arturs Laizans
 Python API for RouterOS. Super light, easy to use and modify.
 
 #### Features:
