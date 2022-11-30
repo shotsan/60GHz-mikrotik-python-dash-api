@@ -1,5 +1,5 @@
 ## A python script and notebook to visualize data from mikrotik 60GHz AP
-![Demo CSS Style](demo_style.png)
+![Demo CSS Style](https://raw.githubusercontent.com/shotsan/60GHz-mmWave-python-dash-api/main/demo_stlye.png)
 
 ## Dependency
 Router OS API: Author-- Arturs Laizans
