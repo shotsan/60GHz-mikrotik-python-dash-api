@@ -1,6 +1,18 @@
 ## A python script and notebook to visualize data from mikrotik 60GHz AP
 ![Demo CSS Style](https://raw.githubusercontent.com/shotsan/60GHz-mmWave-python-dash-api/main/demo_stlye.png)
 
+
+
+## Run
+
+Please play with python notebook -- python_mikrotik_interface.ipynb
+
+1. Login to mikrotik router
+2. Scrit has default IP address and password
+3. Script uses RouterOS python api written by Artus Laizans.
+4. RouterOS powers the mikrotik 60GHz AP, more documentation at https://help.mikrotik.com/docs/display/ROS/W60G 
+
+
 ## Dependency
 Router OS API: Author-- Arturs Laizans
 
