@@ -1,5 +1,5 @@
 ## A python script and notebook to visualize data from mikrotik 60GHz AP
-![Demo Style](assets/demo_style.png)
+![Demo CSS Style](assets/demo_style.png)
 
 ## Dependency
 Router OS API: Author-- Arturs Laizans
