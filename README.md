@@ -1,4 +1,4 @@
-## This is a python script and notebook to visualize data from mikrotik 60GHz AP
+## A python script and notebook to visualize data from mikrotik 60GHz AP
 
 
 ## Dependency
