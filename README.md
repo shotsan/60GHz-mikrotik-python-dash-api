@@ -1,6 +1,6 @@
 ## A python script and notebook to visualize data from mikrotik 60GHz AP
 ![Demo CSS Style](https://raw.githubusercontent.com/shotsan/60GHz-mmWave-python-dash-api/main/demo_stlye.png)
-
+![GitHub repo size](https://img.shields.io/github/repo-size/Crostatus/Jitter) ![GitHub](https://img.shields.io/github/license/Crostatus/Jitter) ![GitHub top language]
 
 
 ## Run
