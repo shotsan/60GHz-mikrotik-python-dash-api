@@ -1,6 +1,6 @@
 
 ![Demo CSS Style](https://raw.githubusercontent.com/shotsan/60GHz-mmWave-python-dash-api/main/demo_stlye.png)
-![GitHub repo size](https://img.shields.io/github/repo-size/Crostatus/Jitter) ![GitHub](https://img.shields.io/github/license/Crostatus/Jitter) 
+![GitHub repo size](https://img.shields.io/github/repo-size/Crostatus/Jitter) ![GitHub](https://img.shields.io/github/license/Crostatus/Jitter) ![](https://komarev.com/ghpvc/?username=shotsan)
 ## A python script and notebook to visualize data from mikrotik 60GHz AP
 
 
@@ -162,4 +162,4 @@ During the creation of this project I learned about:
 * SSL
 * RouterOS API
 
-![](https://komarev.com/ghpvc/?username=shotsan)
+
