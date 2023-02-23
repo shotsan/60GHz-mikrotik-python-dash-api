@@ -1,24 +1,26 @@
 
 ![Demo CSS Style](https://raw.githubusercontent.com/shotsan/60GHz-mmWave-python-dash-api/main/demo_stlye.png)
-![GitHub repo size](https://img.shields.io/github/repo-size/Crostatus/Jitter) ![GitHub](https://img.shields.io/github/license/Crostatus/Jitter) ![](https://komarev.com/ghpvc/?username=shotsan)
+![GitHub repo size](https://img.shields.io/github/repo-size/Crostatus/Jitter) ![GitHub](https://img.shields.io/github/license/Crostatus/Jitter) 
 ## A python script and notebook to visualize data from mikrotik 60GHz AP
 
+Dash is a powerful visualization tool that helps visualize data remotely. Using script, we login to Mikrotik 60 GHz router, read the data.
+In this example, we read received signal strength, modulation and coding scheme, packet error rate, beam direction. We can monitor any parameter, but to keep
+script relevant to mmWave network monitoring, we only read the above parameter.
 
+### Execution
 
-## Run
-
-Please play with python notebook -- python_mikrotik_interface.ipynb
+use python_mikrotik_interface.ipynb
 
 1. Login to mikrotik router
 2. Scrit has default IP address and password
-3. Script uses RouterOS python api written by Artus Laizans.
-4. RouterOS powers the mikrotik 60GHz AP, more documentation at https://help.mikrotik.com/docs/display/ROS/W60G 
+3. Communication api of Mikrtik is written by Artus Laizans.
+4. More documentation at https://help.mikrotik.com/docs/display/ROS/W60G 
 
 
-## Dependency
+### Dependency
 Router OS API: Author-- Arturs Laizans
 
-Python API for RouterOS. Super light, easy to use and modify.
+Python Communication API for RouterOS. Super light, easy to use and modify.
 
 #### Features:
 * Easy to use;
