@@ -3,7 +3,7 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/Crostatus/Jitter) ![GitHub](https://img.shields.io/github/license/Crostatus/Jitter) 
 ## A python script and notebook to visualize data from mikrotik 60GHz AP
 
-Dash is a powerful visualization tool that helps visualize data remotely. Using script, we login to Mikrotik 60 GHz router, read the data.
+[Dash](https://dash.plotly.com/) is a powerful visualization tool that helps visualize data remotely. Using script, we login to Mikrotik 60 GHz router, read the data.
 In this example, we read received signal strength, modulation and coding scheme, packet error rate, beam direction. We can monitor any parameter, but to keep
 script relevant to mmWave network monitoring, we only read the above parameters.
 
