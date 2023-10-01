@@ -16,7 +16,7 @@ script relevant to mmWave network monitoring, we only read the above parameters.
 5. Cheap and easy to use mmWave testbed for under 200$
 
 ### Hardware
-1. Works with any of [60 GHz products] (https://mikrotik.com/products/group/60-ghz-products)
+1. Works with any of [60 GHz products](https://mikrotik.com/products/group/60-ghz-products)
 2. Tested using https://mikrotik.com/product/wap_60g
 ### Execution
 
