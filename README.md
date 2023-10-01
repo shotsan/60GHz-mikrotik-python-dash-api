@@ -7,12 +7,23 @@
 In this example, we read received signal strength, modulation and coding scheme, packet error rate, beam direction. We can monitor any parameter, but to keep
 script relevant to mmWave network monitoring, we only read the above parameters.
 
+
+### Features
+1. Signal Strength monitor
+2. BER monitor
+3. SNR monitor
+4. Switch beams in real-time- Switching code, beam direction in the notebook
+5. Cheap and easy to use mmWave testbed for under 200$
+
+### Hardware
+1. Works with any of [60 GHz products] (https://mikrotik.com/products/group/60-ghz-products)
+2. Tested using https://mikrotik.com/product/wap_60g
 ### Execution
 
 use python_mikrotik_interface.ipynb
 
 1. Login to mikrotik router
-2. Scrit has default IP address and password
+2. Script has default IP address and password
 3. Communication api of Mikrtik is written by Artus Laizans.
 4. More documentation at https://help.mikrotik.com/docs/display/ROS/W60G 
 
